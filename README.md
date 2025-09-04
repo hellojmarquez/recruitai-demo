@@ -29,10 +29,10 @@
 # Clone and install
 git clone https://github.com/yourusername/recruitai-demo.git
 cd recruitai-demo
-npm install
+pnpm install
 
 # Start development
-npm run dev
+pnpm run dev
 Open http://localhost:3000 to view locally.
 
 🛠️ Built With
@@ -57,4 +57,4 @@ Focused on trust-building through transparent pricing, interactive AI demos, and
   <p>Made with ❤️ for the future of recruitment</p>
 ⭐ Star this repo • 🌐 Live Demo
 </div>
-```
+
