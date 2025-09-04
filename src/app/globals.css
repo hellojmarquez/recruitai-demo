@@ -3,6 +3,12 @@
 :root {
 	--background: #ffffff;
 }
+@layer base {
+	html {
+		scroll-behavior: smooth;
+		scroll-padding-top: 80px;
+	}
+}
 
 @theme inline {
 	--color-background: #fff;
