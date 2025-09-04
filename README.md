@@ -49,12 +49,4 @@ AI candidate availability predictor
 Advanced broker analytics
 Mobile app development
 
-
-📝 Design Notes
-Focused on trust-building through transparent pricing, interactive AI demos, and clear value propositions. Emphasized glassmorphism and smooth transitions for a premium feel while maintaining usability.
-
-<div align="center">
-  <p>Made with ❤️ for the future of recruitment</p>
-⭐ Star this repo • 🌐 Live Demo
-</div>
-
+Made with ❤️
