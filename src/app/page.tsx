@@ -177,7 +177,7 @@ export default function Home() {
 						Community Teaser
 					</h3>
 					<div className="flex flex-col lg:flex-row w-full gap-8">
-						<div className=" flex-1 min-w-[320px] bg-red-600 rounded-3xl p-6 flex items-center justify-center">
+						<div className=" flex-1 min-w-[320px] rounded-3xl p-6 flex items-center justify-center">
 							<div className="relative w-full justify-center items-center max-w-md aspect-square">
 								<Image
 									src="/image/comunity.png"
